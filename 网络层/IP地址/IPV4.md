@@ -8,7 +8,7 @@ ps:网桥不分割局域网
 
 ##### 分类的IP地址
 
-![1546146029873](C:\Users\Administrator\Desktop\computer-networks\网络层\IP地址\assets\1546146029873.png)
+![1546146029873](.\assets\1546146029873.png)
 
 
 
@@ -26,11 +26,11 @@ ps:网桥不分割局域网
 
 ##### 私有IP地址（内部网络使用） 这里网段数不对
 
-![1546162184607](C:\Users\Administrator\Desktop\computer-networks\网络层\IP地址\assets\1546162184607.png)
+![1546162184607](.\assets\1546162184607.png)
 路由器对私有IP地址一律不转发
 
 ##### 分类的IP地址
 
-![1546164898539](C:\Users\Administrator\Desktop\computer-networks\网络层\IP地址\assets\1546164898539.png)
+![1546164898539](.\assets\1546164898539.png)
 
 网络号全0表示本网络,除了A类不可能全0
